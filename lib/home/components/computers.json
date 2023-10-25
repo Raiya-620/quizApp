@@ -1,0 +1,111 @@
+{"response_code":0,
+"results":
+[
+    {"category":"Science: Computers",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"In any programming language, what is the most common way to iterate through an array?",
+    "correct_answer":"&#039;For&#039; loops",
+    "incorrect_answers":[
+        "&#039;If&#039; Statements",
+        "&#039;Do-while&#039; loops",
+        "&#039;While&#039; loops"
+        ]},
+        {"category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "correct_answer":"1000",
+        "incorrect_answers":[
+            "512",
+            "1024",
+            "500"
+            ]
+            },
+            {
+                "category":"Science: Computers",
+                "type":"multiple",
+                "difficulty":"easy",
+                "question":"What amount of bits commonly equals one byte?",
+                "correct_answer":"8",
+                "incorrect_answers":[
+                    "1",
+                    "2",
+                    "64"
+                    ]},
+                    {
+                        "category":"Science: Computers",
+                        "type":"multiple",
+                        "difficulty":"easy",
+                        "question":"If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+                        "correct_answer":"Binary",
+                        "incorrect_answers":[
+                            "JavaScript",
+                            "C++",
+                            "Python"
+                            ]},
+                            { 
+                                "category":"Science: Computers",
+                                "type":"multiple",
+                                "difficulty":"easy",
+                                "question":"What does the Prt Sc button do?",
+                                "correct_answer":"Captures what&#039;s on the screen and copies it to your clipboard",
+                                "incorrect_answers":["Nothing",
+                                "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+                                "Closes all windows"
+                                ]},
+                                { 
+                                    "category":"Science: Computers",
+                                    "type":"multiple",
+                                    "difficulty":"easy",
+                                    "question":"How many kilobytes in one gigabyte (in decimal)?",
+                                    "correct_answer":"1000000",
+                                    "incorrect_answers":[
+                                        "1024",
+                                        "1000",
+                                        "1048576"
+                                        ]},
+                                        { 
+                                            "category":"Science: Computers",
+                                            "type":"multiple",
+                                            "difficulty":"easy",
+                                            "question":"In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+                                            "correct_answer":"Green",
+                                            "incorrect_answers":[
+                                                "Red",
+                                                "Blue",
+                                                "Yellow"
+                                                ]},
+                                                { 
+                                                    "category":"Science: Computers",
+                                                    "type":"multiple",
+                                                    "difficulty":"easy",
+                                                    "question":"In computing, what does MIDI stand for?",
+                                                    "correct_answer":"Musical Instrument Digital Interface",
+                                                    "incorrect_answers":[
+                                                        "Musical Interface of Digital Instruments",
+                                                        "Modular Interface of Digital Instruments",
+                                                        "Musical Instrument Data Interface"
+                                                        ]},
+                                                        { 
+                                                            "category":"Science: Computers",
+                                                            "type":"multiple",
+                                                            "difficulty":"easy",
+                                                            "question":"In computing, what does LAN stand for?",
+                                                            "correct_answer":"Local Area Network",
+                                                            "incorrect_answers":[
+                                                                "Long Antenna Node",
+                                                                "Light Access Node",
+                                                                "Land Address Navigation"
+                                                                ]},
+                                                                { 
+                                                                    "category":"Science: Computers",
+                                                                    "type":"multiple",
+                                                                    "difficulty":"easy",
+                                                                    "question":"What does the computer software acronym JVM stand for?",
+                                                                    "correct_answer":"Java Virtual Machine",
+                                                                    "incorrect_answers":[
+                                                                        "Java Vendor Machine",
+                                                                        "Java Visual Machine",
+                                                                        "Just Virtual Machine"
+                                                                        ]}]}
