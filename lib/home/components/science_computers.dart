@@ -35,7 +35,7 @@ class _ScienceAndComputerState extends State<ScienceAndComputer> {
         correctAnswer:everylist['correct_answer'],
         incorrectAnswer:everylist['incorrect_answers']
       );
-      computerQuizzes.add(quiz);
+      computerQuizzes.add(quiz); 
      }
 
      for(var everyQuiz in computerQuizzes){
